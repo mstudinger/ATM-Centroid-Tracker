@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# local files and folders to ignore
+ATM_centroid_tracker_develop.ipynb
+develop/
+
 # C extensions
 *.so
 
